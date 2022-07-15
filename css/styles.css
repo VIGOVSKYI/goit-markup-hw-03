@@ -95,8 +95,10 @@ display: flex;
     background-color: #2F303A;
     text-align: center;
 }
-.container-caption{
-    min-width: 1200px;
+.container-caption {
+    width: 1200px;
+    margin-left: auto;
+        margin-right: auto;
 outline: 1px solid red;
     margin-top: 0;
     margin-bottom: 0;
@@ -262,9 +264,11 @@ margin-right: 30px;
 .btn { 
     font-family: 'Roboto';
     display: inline-block;
+    justify-content: center;
     width: 200px;
     height: 50px;
-    margin:30px 700px 200px 700px;
+    margin-top:30px;
+    margin-bottom: 200px;
     padding: 10px 32px;
     border-radius: 4px;
     cursor: pointer;
