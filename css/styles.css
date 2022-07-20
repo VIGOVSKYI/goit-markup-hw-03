@@ -240,7 +240,7 @@ header {
 /* ============services========== */
 .services {
     padding-top:0px;
-    padding-bottom: 0px;
+    padding-bottom: 94px;
 }
 
 .container-services {
@@ -377,7 +377,7 @@ padding-bottom: 94px;
     justify-content: center;
     align-items: center;
     margin-top: 0;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
     padding-bottom: 0px;
     margin-left: auto;
     margin-right: auto;
